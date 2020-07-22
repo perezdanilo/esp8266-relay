@@ -10,5 +10,4 @@
 - Conectores borne
 
 <h3>Esquemático</h3>
-
 ![](images/esquematico.png)
