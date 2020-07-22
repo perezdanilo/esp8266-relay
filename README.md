@@ -48,3 +48,5 @@ void loop()
   Blynk.run();
 }
 ```
+
+A única modificação necessária substituir "YourAuthToken", "YourNetworkName" e "YourPassword" por dados próprios.
