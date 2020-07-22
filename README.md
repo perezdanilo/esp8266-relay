@@ -15,6 +15,10 @@
 
 O diodo D2 foi adicionado porque, ao ligar o circuito, o transistor estava "travando" ao receber um sinal 0 do ESP8266-01. O diodo D2 impede a circulação de corrente no nesse momento inicial.
 
+Foi utilizada uma placa de fenolite ilhada para a montagem do circuito.
+
+![](images/placa.jpeg)
+
 <h3>Teste</h3>
 
 Foi utilizada a biblioteca Blynk para controlar a saída do ESP8266-01 através de um smartphone.
