@@ -15,7 +15,7 @@
 
 O diodo D2 foi adicionado porque, ao ligar o circuito, o transistor estava "travando" ao receber um sinal 0 do ESP8266-01. O diodo D2 impede a circulação de corrente no nesse momento inicial.
 
-Foi utilizada uma placa de fenolite ilhada para a montagem do circuito.
+O circuito foi montado em uma placa de fenolite ilhada.
 
 ![](images/placa.jpeg)
 
