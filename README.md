@@ -54,3 +54,5 @@ void loop()
 ```
 
 A única modificação necessária substituir "YourAuthToken", "YourNetworkName" e "YourPassword" por dados próprios.
+
+<iframe src='//gifs.com/embed/rel-com-esp8266-01-NLmmqm' frameborder='0' scrolling='no' width='640px' height='352px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
