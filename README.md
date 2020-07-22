@@ -55,4 +55,4 @@ void loop()
 
 A única modificação necessária substituir "YourAuthToken", "YourNetworkName" e "YourPassword" por dados próprios.
 
-![](https://j.gifs.com/NLmmqm.gif)
+O resultado pode ser visto [aqui](https://www.youtube.com/watch?v=pMqud979B0o).
